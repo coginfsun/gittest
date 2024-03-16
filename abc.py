@@ -12,3 +12,5 @@ result = reduce(add, numbers)
 
 # Print the result
 print(result)
+
+print("Hello World" GUGU)
